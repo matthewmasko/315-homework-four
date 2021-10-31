@@ -1,0 +1,15 @@
+{
+  "name": "homework-four",
+  "version": "1.0.0",
+  "description": "This is Homework Four for N315.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server"
+  },
+  "author": "Matthew Masko",
+  "license": "ISC"
+}

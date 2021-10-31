@@ -1,0 +1,6 @@
+.page-container .create-container {
+  width: 100vw;
+  min-height: 500px;
+  margin: 0 auto;
+  background-color: blueviolet;
+}
